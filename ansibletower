@@ -1,0 +1,34 @@
+What is Ansible Tower?
+Ansible Tower is the enterprise version of Ansible, providing a web-based UI, REST API, and role-based access control for managing Ansible automation at scale. It’s developed by Red Hat.
+
+Think of it as a centralized hub where you can manage:
+
+Automation workflows
+
+Job scheduling
+
+Inventory management
+
+Credential storage
+
+Logging and auditing
+
+without needing to run everything manually from the command line.
+
+📦 Key Features:
+Web UI & Dashboard: Visual interface for monitoring, running, and scheduling playbooks.
+
+Role-based Access Control (RBAC): Control who can run what, and where.
+
+Job Scheduling: Schedule playbooks to run at specific times or intervals.
+
+API-Driven: Everything Tower does through the UI can be done via its REST API.
+
+Centralized Logging: View logs and output of all automation tasks in one place.
+
+Workflow Automation: Chain multiple playbooks/jobs together in complex workflows.
+
+Inventory Management: Maintain dynamic or static lists of your infrastructure.
+
+Credential Storage: Securely store SSH keys, cloud tokens, and other secrets.
+
